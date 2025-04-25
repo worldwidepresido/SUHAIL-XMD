@@ -9,6 +9,10 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
 
 ![KingZord263](https://files.catbox.moe/6f05ah.jpg)
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=SUHAIL-MD+V3)
 
@@ -43,6 +47,9 @@ First star & Fork the repo using the button below!
 > Connection issues may require VPN activation.
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ## 🚀 DEPLOYMENT OPTIONS
 
@@ -57,6 +64,9 @@ First star & Fork the repo using the button below!
 | Render | Netlify |
 |--------|---------|
 | [![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/web/new) | [![Netlify](https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000)](https://app.netlify.com/) |
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ---
 #### DEPLOY TO RENDER
