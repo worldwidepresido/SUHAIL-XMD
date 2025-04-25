@@ -110,7 +110,6 @@ SUHAIL MD IS BACK🏆
 
 FOLLOW FOR UPDATES
 
-https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 
 
 >
@@ -118,7 +117,7 @@ https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
   
-  *[Contact the dev🏆](https://wa.me/263718036108)
+* [Contact the dev🏆](https://wa.me/263718036108)
  
 
 <h3 align="center">
