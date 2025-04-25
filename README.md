@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3++by+SUHAIL+KINGS" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3+IS+READY+TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
 
 
