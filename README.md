@@ -5,7 +5,7 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
 ![KingZord263](https://files.catbox.moe/6f05ah.jpg)
 
 
-[Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=SUHAIL-MD+V3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=SUHAIL-MD+V3)
 
 ---
 
@@ -66,8 +66,8 @@ First star & Fork the repo using the button below!
     <br>
 <a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
-                       Now Deploy
-    <br>
+                      
+    
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
 
@@ -88,8 +88,7 @@ https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 
 
 >
-
-* [🧑‍💻 Follow ZORD_TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
+![🧑‍💻 Follow ZORD_TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
 
