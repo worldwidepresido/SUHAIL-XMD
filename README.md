@@ -84,11 +84,28 @@ SUHAIL MD IS BACK🏆
  SUHAIL MD TECH 
 
 FOLLOW FOR UPDATES
+
 https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 
 
 >
-![🧑‍💻 Follow ZORD_TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
+[🧑‍💻 Follow ZORD_TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
+  
+ 
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+V3+Edition+by+SUHAIL+KINGS;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+ture+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
