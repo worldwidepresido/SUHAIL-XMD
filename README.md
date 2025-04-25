@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+
 # SUHAIL-XMD 
 
 l know you might that Suhail MD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
@@ -6,6 +11,10 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=SUHAIL-MD+V3)
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 ---
 
@@ -102,7 +111,9 @@ https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-ture+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+
+BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
+
 </h3>
 
 <p align="center">
