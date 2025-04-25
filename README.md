@@ -3,6 +3,11 @@
 </p>
 
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3++by+SUHAIL+KINGS" alt="Footer Animation">
+</h3>
+
+
 # SUHAIL-XMD 
 
 l know you might that Suhail MD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
@@ -108,10 +113,10 @@ https://whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q
 
 
 >
-[🧑‍💻 Follow ZORD_TEAMS Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
+[🧑‍💻 Follow Our Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
-  
+  *[Contact the dev🏆](https://wa.me/263718036108)
  
 
 <h3 align="center">
