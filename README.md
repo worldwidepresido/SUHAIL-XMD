@@ -3,9 +3,7 @@
 </p>
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
-</h3>
+
 
 
 # SUHAIL-XMD 
@@ -13,6 +11,9 @@
 l know you might that Suhail MD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
 
 ![KingZord263](https://files.catbox.moe/6f05ah.jpg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
+</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
