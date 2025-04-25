@@ -34,7 +34,7 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
 
 First star & Fork the repo using the button below!
 
-[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/VORTEXxTHRIIZ/SUHAIL-MD/fork)
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/KINGZORD263/SUHAIL-XMD/fork)
 
 ---
 
