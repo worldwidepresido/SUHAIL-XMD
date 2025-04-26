@@ -16,8 +16,6 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
 </h3>
 
 
-  <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -102,7 +100,8 @@ First star & Fork the repo using the button below!
 
 
 ![Background Image](https://files.catbox.moe/3z60b8.jpg)
-SUHAIL MD IS BACK🏆
+  <p align="center">
+<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
 
 > Don't forget to fork & star the repo!
