@@ -45,7 +45,7 @@ First star & Fork the repo using the button below!
 
 
 #### 😆 OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/code/pair)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/code)
 
 #### 😉 OPTION TWO
 [![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/scan)
