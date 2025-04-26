@@ -8,7 +8,7 @@
 
 # SUHAIL-XMD 
 
-l know you might that Suhail MD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
+l know you might that Suhail MD isn't a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
 
 ![KingZord263](https://files.catbox.moe/6f05ah.jpg)
 <h3 align="center">
