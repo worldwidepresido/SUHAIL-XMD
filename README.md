@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/philipper-abstract-geometric-wedUH31bhhmnK.gif" height="40" width="100%">
+  <img src="https://giphy.com/gifs/philipper-abstract-geometric-wedUH31bhhmnK.gif" height="80" width="100%">
 </p>
 
 
