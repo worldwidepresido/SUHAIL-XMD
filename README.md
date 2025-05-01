@@ -111,18 +111,18 @@ First star & Fork the repo using the button below!
 FOLLOW FOR UPDATES
 
 
-
+ ![Background Image](https://files.catbox.moe/3z60b8.jpg)
 >
 [🧑‍💻 Follow Our Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
 
 
- ![Background Image](https://files.catbox.moe/3z60b8.jpg)
+
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a 
                                                                                                               
-* [Contact the dev🏆](https://wa.me/263778728504)
+* [Contact the dev🏆](https://wa.me/263718728504)
  
 
 <h3 align="center">
